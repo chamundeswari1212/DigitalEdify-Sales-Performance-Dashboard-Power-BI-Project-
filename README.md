@@ -35,7 +35,7 @@
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-- <img width="1329" height="744" alt="Screenshot 2025-10-30 183355" src="https://github.com/user-attachments/assets/e1350b9a-e962-4c60-83b1-b4bd7a22a2fc" />
+<img width="1329" height="744" alt="Screenshot 2025-10-30 183355" src="https://github.com/user-attachments/assets/e1350b9a-e962-4c60-83b1-b4bd7a22a2fc" />
 
 ## Project Insight
 - Total Sales: ₹187M | Total Profit: ₹25.09M | Units Sold: 11K
@@ -45,4 +45,4 @@
 - Sales are geographically concentrated around major cities like Hyderabad, Vijayawada, and Visakhapatnam.
 
 ## Final Conclusion:
-- The DigitalEdity Sales Dashboard gives a clear view of Edify’s sales and profit performance, but the process can be improved for better accuracy and insights. Integrating complete last-year data will enable proper growth analysis, while automating data updates can ensure real-time and error-free reporting. Adding predictive analytics will help forecast trends, and deeper regional analysis can guide market-focused strategies. Regular performance tracking and stronger collaboration between teams will make decision-making faster and more data-driven, helping Edify achieve steady and informed business growth.
+The DigitalEdity Sales Dashboard gives a clear view of Edify’s sales and profit performance, but the process can be improved for better accuracy and insights. Integrating complete last-year data will enable proper growth analysis, while automating data updates can ensure real-time and error-free reporting. Adding predictive analytics will help forecast trends, and deeper regional analysis can guide market-focused strategies. Regular performance tracking and stronger collaboration between teams will make decision-making faster and more data-driven, helping Edify achieve steady and informed business growth.
