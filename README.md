@@ -21,8 +21,12 @@
 - Which states and cities contribute most to sales?
 - Which are the Top 5 performing products by Sales and Profit?
 - What is the average discount across different campaigns?
+- How do discounts affect overall sales and profitability?
+- Which Product Categories or Campaigns generate the highest revenue?
+- Are there any sales hotspots (high demand zones)?
+- Which campaigns (e.g., Diwali Bonanza, Summer Sale) are most effective?
 
--Dashboard Interaction - <a href="https://github.com/chamundeswari1212/DigitalEdify-Sales-Performance-Dashboard-Power-BI-Project-/blob/README/Screenshot%202025-10-30%20183355.png">View Dashboard</a>
+- Dashboard Interaction - <a href="https://github.com/chamundeswari1212/DigitalEdify-Sales-Performance-Dashboard-Power-BI-Project-/blob/README/Screenshot%202025-10-30%20183355.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -32,3 +36,13 @@
 
 ## Dashboard
 - <img width="1329" height="744" alt="Screenshot 2025-10-30 183355" src="https://github.com/user-attachments/assets/e1350b9a-e962-4c60-83b1-b4bd7a22a2fc" />
+
+## Project Insight
+- Total Sales: ₹187M | Total Profit: ₹25.09M | Units Sold: 11K
+- Apple products lead both in sales and profitability.
+- The Diwali Bonanza campaign offers the highest average discounts.
+- The % growth figure highlights missing or incomplete LY data, which can be improved by integrating previous-year metrics.
+- Sales are geographically concentrated around major cities like Hyderabad, Vijayawada, and Visakhapatnam.
+
+## Final Conclusion:
+- The DigitalEdity Sales Dashboard gives a clear view of Edify’s sales and profit performance, but the process can be improved for better accuracy and insights. Integrating complete last-year data will enable proper growth analysis, while automating data updates can ensure real-time and error-free reporting. Adding predictive analytics will help forecast trends, and deeper regional analysis can guide market-focused strategies. Regular performance tracking and stronger collaboration between teams will make decision-making faster and more data-driven, helping Edify achieve steady and informed business growth.
